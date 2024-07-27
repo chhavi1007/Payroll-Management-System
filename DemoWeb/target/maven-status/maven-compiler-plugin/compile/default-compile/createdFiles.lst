@@ -1,0 +1,8 @@
+actions\check.class
+actions\DeleteUser.class
+com\erp\demoweb\resources\JakartaEE10Resource.class
+actions\RegisterUser.class
+com\erp\demoweb\JakartaRestConfiguration.class
+views\Login.class
+views\register.class
+views\Dashboard.class
